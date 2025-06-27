@@ -2,7 +2,7 @@
 
 ```bash
 Kiedyś na IRC-u, flame war o licencje,
-Dziś w teamsach emoji, „zgoda na konwencję”.
+Dziś w teamsach emoji, zgoda na konwencję.
 Pushował, Forkował, żył jak samuraj,
 Teraz w NDA, vendor-lock i na kasę skok.
 
